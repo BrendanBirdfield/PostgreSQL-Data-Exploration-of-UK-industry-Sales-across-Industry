@@ -15,3 +15,5 @@ FROM earliest
 LEFT JOIN latest
 USING(business_type)
 ORDER BY sales_diff DESC
+
+--Wholesale had biggest increase with internet sales increasing by 278.7 billion between 2009 and 2019
