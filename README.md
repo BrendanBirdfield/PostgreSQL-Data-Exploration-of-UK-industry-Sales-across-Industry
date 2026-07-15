@@ -10,8 +10,7 @@ Yes internet sales increased from 41.69 billion in 2009 to 75.67 billion in 2019
 
 <img width="1125" height="744" alt="Image" src="https://github.com/user-attachments/assets/990a04b5-fbc5-4802-8d0c-8c08b319eca9" />
 
-
-
+#
 **Which industry has the most and least internet sales?**
 
 Wholesale industry has the most internet sales with 2977 billion in sales over 10 years.
