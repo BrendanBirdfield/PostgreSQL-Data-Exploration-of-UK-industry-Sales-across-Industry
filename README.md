@@ -1,4 +1,4 @@
-# PostgreSQL-Data-Exploration-of-UK-industry-Sales-across-Industry
+# PostgreSQL Data Exploration of UK Industry Sales Across Industry
 Using SQL within a postgreSQL database created from the office for national statistics E-commerce data: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/consumercardspendingecommerceanddigitaltradeinsightsintheuk/2019to2025 
 
 Created a database in PostgreSQL using data including websales and EDI sales summerised by business type and business size between 2009 and 2019.
