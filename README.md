@@ -10,7 +10,7 @@ Yes internet sales increased from 41.69 billion in 2009 to 75.67 billion in 2019
 
 <img width="1125" height="744" alt="Image" src="https://github.com/user-attachments/assets/990a04b5-fbc5-4802-8d0c-8c08b319eca9" />
 
-**Which industry has most and least internet sales?**
+**Which industry has the most and least internet sales?**
 
 Wholesale industry has the most internet sales with 2977 billion in sales over 10 years.
 Construction had the least with 125.5 billion over 10 years. 
@@ -30,17 +30,17 @@ Wholesale has the biggest increase in internet sales between 2009 and 2019.
 **Which business type has the biggest difference in internet sales between large and small business size?**
 
 Two CTE's were created to find the internet sales grouped by industry type one cte contains data for small business and the other for large business.
-They were then joined joined and the values for small business was subtracted from large business to find the industry with the biggest difference between small and large.
+They were then joined and the values for small business was subtracted from large business to find the industry with the biggest difference between small and large.
 
 Wholesalers showed the biggest difference in internet sales between small and large business.
 
 <img width="1644" height="888" alt="Image" src="https://github.com/user-attachments/assets/07032ea3-3af6-4d49-a457-aad48b9a91c4" />
 
 
-**Have Small or large business benefited more from increasing internet sales?**
+**Have Small or Large businesses benefited more from increasing internet sales?**
 
 Seperate CTE's were created to find the total sales grouped by business size for 2014 vs 2019.
-The cte's were joined and total sales were subtracted from each other to find the change over time.
+The CTE's were joined and total sales were subtracted from each other to find the change over time.
 
 Small business showed a slightly larger increase in sales over time than large business.
 
